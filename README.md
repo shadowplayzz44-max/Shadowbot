@@ -20,9 +20,9 @@ Perfect for automating panel installations like **Pterodactyl, Nebula, or Convoy
 1. **Clone or download the repo**  
 2. **Install Python dependencies**  
 ```bash
-pip install discord.py```
+pip install discord.py
 
 
 
 
-```python3 discord_vps_bot.py```
+```python3 discord_vps_bot.py
