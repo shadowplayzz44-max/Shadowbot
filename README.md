@@ -22,7 +22,7 @@ Perfect for automating panel installations like **Pterodactyl, Nebula, or Convoy
 ```bash
 pip install discord.py
 
-
+then
 
 
 ```python3 discord_vps_bot.py
