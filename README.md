@@ -17,10 +17,15 @@ Perfect for automating panel installations like **Pterodactyl, Nebula, or Convoy
 
 ## ⚙️ Setup Guide
 
-1. **Clone or download the repo**  
-2. **Install Python dependencies**  
+1. **Clone or download the repo**
+   ```bash
+   git clone https://github.com/shadowplayzz44-max/Shadowbot.git
+```
+3. **Install Python dependencies**  
+4.
 ```bash
 pip install discord.py
+4.
 ```bash
 python3 bot.py
 ```
