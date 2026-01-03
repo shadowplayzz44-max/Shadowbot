@@ -21,11 +21,10 @@ Perfect for automating panel installations like **Pterodactyl, Nebula, or Convoy
    ```bash
    git clone https://github.com/shadowplayzz44-max/Shadowbot.git
 ```
-3. **Install Python dependencies**  
-4.
+3. **Install Python dependencies**
 ```bash
 pip install discord.py
-4.
+4. **make online the bot**
 ```bash
 python3 bot.py
 ```
